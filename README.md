@@ -1,4 +1,6 @@
  Features
+
+ 
  Search: Filter products by name.
 
  Category Filter: Filter products by dynamic categories.
